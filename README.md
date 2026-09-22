@@ -212,4 +212,4 @@ RSSOwl is offered as a full free version, with all features and updates included
 Ready to streamline your news consumption? **Download RSSOwl free today and take control of your information flow!**
 
 ---
-**Last updated:** 2026-09-22 00:28:54 UTC
+**Last updated:** 2026-09-22 05:43:19 UTC
